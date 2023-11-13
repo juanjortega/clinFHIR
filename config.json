@@ -6,7 +6,7 @@
   "servers": {
     "terminology": "http://fhir.hl7.org.nz/dstu2/",
     "data": "http://fhirtest.uhn.ca/baseDstu3/",
-    "conformance": "http://fhir3.healthintersections.com.au/open/"
+    "conformance": "https://hapi.fhir.org/baseR4/"
   },
   "terminologyServers" : [
     {"version":2,"url":"http://fhir.hl7.org.nz/dstu2/"},
