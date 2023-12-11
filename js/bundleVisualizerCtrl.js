@@ -81,7 +81,6 @@ angular.module("sampleApp")
                 })
             }
 
-
             let search = $window.location.search;
 
             if (search) {
